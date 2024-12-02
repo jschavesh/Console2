@@ -59,7 +59,8 @@
 			<File RelativePath=".\mkl_dfti.f90">
 			</File>
 		</Filter>
-		<File RelativePath=".\ReadMe.txt"/>
+		<File RelativePath=".\ReadMe.txt">
+		</File>
 	</Files>
 	<Globals/>
 </VisualStudioProject>
